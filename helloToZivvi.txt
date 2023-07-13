@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+hello to Michal and Zivvi
 https://github.com/ziviRaber/SomeCodeOfMine
 hello to Michal and Zivvi
 ???????
-=======
 hello to Michal and Zivi
-!!!!!!!!!!!!!!
->>>>>>> 8aa898f1ac25509e706ee432dad068971a6559ee
